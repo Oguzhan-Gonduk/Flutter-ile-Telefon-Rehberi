@@ -1,0 +1,47 @@
+[
+  {
+    "id" : 1,
+    "ad": "Kurum 1",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 2,
+    "ad": "Kurum 2",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 3,
+    "ad": "Kurum 3",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 4,
+    "ad": "Kurum 4",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 5,
+    "ad": "Kurum 5",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 6,
+    "ad": "Kurum 6",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 7,
+    "ad": "Kurum 7",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 8,
+    "ad": "Kurum 8",
+    "icon": "assets/icon/kurum1.png"
+  },
+  {
+    "id" : 9,
+    "ad": "Kurum 9",
+    "icon": "assets/icon/kurum1.png"
+  }
+]
